@@ -109,6 +109,7 @@ body {
 }
 .nav-pills .nav-link {
     color: #000;
+    cursor: pointer;
 }
 .item-column {
     position: relative;
@@ -126,6 +127,7 @@ body {
     height: 100%;
     object-fit: cover;
     padding: 0.5em;
+    cursor: pointer;
 }
 .mg-prev,
 .mg-next {
